@@ -4,7 +4,6 @@ In this project, a vision board webpage was created that includes some great asp
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
 * A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 😊
 
 ## Using Skillcrush Vision Board Bonus Project 2021
