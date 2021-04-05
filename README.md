@@ -1,4 +1,4 @@
-![freeCodeCamp.org Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+![Jubilee Austen Screenshot Banner](img/visionboard-readme-header.png)
 # Skillcrush Vision Board Bonus Project 2021
 
 In this project, a vision board webpage was created that includes some great aspirations in a lovely layout. (If you’re not familiar with vision boards, they are virtual or physical boards where you place your hopes and dreams.) This was primarily a project to practice skills at writing divs, clearing floats, styling text, and more.
