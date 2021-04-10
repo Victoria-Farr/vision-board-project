@@ -3,6 +3,8 @@
 
 In this project, a vision board webpage was created that includes some great aspirations in a lovely layout. (If you’re not familiar with vision boards, they are virtual or physical boards where you place your hopes and dreams.) This was primarily a project to practice skills at writing divs, clearing floats, styling text, and more.
 
+It can be viewed here: https://victoria-farr.github.io/vision-board-project/
+
 ## Prerequisites
 
 * A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 😊
